@@ -1,0 +1,4 @@
+{
+  "tags": ["hmmmposts"],
+  "layout": "layouts/post.njk"
+}
